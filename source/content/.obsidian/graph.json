@@ -1,0 +1,93 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#Exóticas  ",
+      "color": {
+        "a": 1,
+        "rgb": 16766720
+      }
+    },
+    {
+      "query": "tag:#Águias  ",
+      "color": {
+        "a": 1,
+        "rgb": 5427424
+      }
+    },
+    {
+      "query": "tag:#Aranhas  ",
+      "color": {
+        "a": 1,
+        "rgb": 15767142
+      }
+    },
+    {
+      "query": "tag:#Corujas  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#Gorilas  ",
+      "color": {
+        "a": 1,
+        "rgb": 15748188
+      }
+    },
+    {
+      "query": "tag:#Lobos  ",
+      "color": {
+        "a": 1,
+        "rgb": 1908183
+      }
+    },
+    {
+      "query": "tag:#Ursos  ",
+      "color": {
+        "a": 1,
+        "rgb": 6341497
+      }
+    },
+    {
+      "query": "tag:#ConclaveEspadana  ",
+      "color": {
+        "a": 1,
+        "rgb": 13064735
+      }
+    },
+    {
+      "query": "tag:#Ciganos  ",
+      "color": {
+        "a": 1,
+        "rgb": 10506976
+      }
+    },
+    {
+      "query": "tag:#SombrasELadroes  ",
+      "color": {
+        "a": 1,
+        "rgb": 1835620
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.635416666666667,
+  "repelStrength": 16.1458333333333,
+  "linkStrength": 1,
+  "linkDistance": 103,
+  "scale": 0.258838656218173,
+  "close": false
+}

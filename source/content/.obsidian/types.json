@@ -1,0 +1,18 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Filiações": "multitext",
+    "Publish": "number",
+    "Idade": "number",
+    "Arquétipos": "multitext",
+    "Aliados": "multitext",
+    "Concorrentes": "multitext",
+    "Jogador": "multitext",
+    "Tipo": "multitext",
+    "Pai": "text",
+    "Anterior": "text",
+    "Data": "date"
+  }
+}

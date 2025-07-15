@@ -1,62 +1,54 @@
 {
   "main": {
-    "id": "2e9225e34664efd4",
+    "id": "481a7ccb7864acbe",
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "966e136251368592",
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "ce23a863e6ed6a0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Sombras & Ladrões/Sessões/Temporada 1/Reformulação de Negócios (Temporada 1 - Sessão 5.2).md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "2d8837e6263008e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "category-folder/Some note.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Reformulação de Negócios (Temporada 1 - Sessão 5.2)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1243752a4df710bb",
+    "id": "17bb59004e6bf44b",
     "type": "split",
     "children": [
       {
-        "id": "8a4c81639dc8783e",
+        "id": "f62b6cb5ae400b86",
         "type": "tabs",
         "children": [
           {
-            "id": "b77831b90dd9f87b",
+            "id": "2ade7fa3c9e21a37",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
             }
           },
           {
-            "id": "0829eb50dbb8a2b3",
+            "id": "911e798f280cb5a8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,15 +59,19 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
             }
           },
           {
-            "id": "436d75c49c949463",
+            "id": "582e7b1b7a2249f5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -85,20 +81,19 @@
     "width": 300
   },
   "right": {
-    "id": "ba1ec06a672fb227",
+    "id": "afe9a36bfa2318c3",
     "type": "split",
     "children": [
       {
-        "id": "6cea78168fbf9ccd",
+        "id": "ff8686f922c74d44",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa5a4c073617928",
+            "id": "162b47f422afd8fe",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Some note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,65 +101,139 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
-            "id": "5acb7020384970a8",
+            "id": "c54c3de21b87ddc3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "Sombras & Ladrões/Sessões/Temporada 1/Reformulação de Negócios (Temporada 1 - Sessão 5.2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Reformulação de Negócios (Temporada 1 - Sessão 5.2)"
             }
           },
           {
-            "id": "f850ba7e9e699bea",
+            "id": "03bc795b7643d93c",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "2d9129bb8dcf7983",
+            "id": "464ceee301122bf1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/Some note.md"
-              }
+                "file": "Sombras & Ladrões/Sessões/Temporada 1/Reformulação de Negócios (Temporada 1 - Sessão 5.2).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Reformulação de Negócios (Temporada 1 - Sessão 5.2)"
+            }
+          },
+          {
+            "id": "97265ebaba83e729",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "e393a3dd13748f8a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 319.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-habitica-integration:Open Habitica Pane": false,
+      "publish:Publicar mudanças": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "ce23a863e6ed6a0e",
   "lastOpenFiles": [
-    "category-folder/index.md",
-    "category-folder/Some note.md",
-    "index.md",
-    "category-folder"
+    "Sombras & Ladrões/Personagens/Personagem Alanna.md",
+    "Sombras & Ladrões/Sessões/Temporada 1/Reformulação de Negócios (Temporada 1 - Sessão 5.2).md",
+    "Sombras & Ladrões/Personagens/Corujas/Personagens de Player/Richard.md",
+    "Sombras & Ladrões/Arquétipos/Místicos/Atirador Rúnico.md",
+    "Sombras & Ladrões/Sessões/Temporada 1",
+    "Sombras & Ladrões/Sessões",
+    "Sombras & Ladrões/Personagens/Gorilas/Clarisse Maria.md",
+    "Sombras & Ladrões/Personagens/Turmalinas/Miri Turmalina.md",
+    "Sombras & Ladrões/Personagens/Richard Trevithick.md",
+    "Sombras & Ladrões/Sombras e Ladrões.md",
+    "Sombras & Ladrões/Gangues.md",
+    "Sombras & Ladrões/Ficha - Sombras & Ladrões.md",
+    "Sombras & Ladrões/Federação das Colônias.md",
+    "Sombras & Ladrões/Arquétipos Sombras & Ladrões.md",
+    "Sombras & Ladrões/Personagens/Corujas/Zyan.md",
+    "Sombras & Ladrões/Personagens/Corujas/Vince Maria.md",
+    "Sombras & Ladrões/Arquétipos/Mundanos/Pistoleiro.md",
+    "Sombras & Ladrões/Arquétipos/Mundanos/Batedor.md",
+    "Sombras & Ladrões/Arquétipos/Mundanos/Espião.md",
+    "Sombras & Ladrões/Arquétipos/Mundanos/Assassino.md",
+    "Sombras & Ladrões/Arquétipos/Místicos/Gisha.md",
+    "Sombras & Ladrões/Personagens/Lobos/Wilma Lupita.md",
+    "Sombras & Ladrões/Arquétipos/Mundanos/Esgrimistra.md",
+    "Sombras & Ladrões/Arquétipos/Mundanos/Pirata.md",
+    "Sombras & Ladrões/Arquétipos/Mundanos/Ladrão.md",
+    "Sombras & Ladrões/Arquétipos/Mundanos/Detonador.md",
+    "Sombras & Ladrões/Arquétipos/Mundanos/Charlatão.md",
+    "Sombras & Ladrões/Arquétipos/Mundanos/Carrasco.md",
+    "Sombras & Ladrões/Itens/Armas/Armas Corpo-a-Corpo",
+    "Sombras & Ladrões/Itens/Armas/Armas de Fogo",
+    "Sombras & Ladrões/Itens/Armas",
+    "Sombras & Ladrões/Itens",
+    "Sombras & Ladrões/Lore",
+    "Sombras & Ladrões/Magias/Gisha/Sombra",
+    "Sombras & Ladrões/Magias/Gisha",
+    "Sombras & Ladrões/Magias",
+    "Sem título.canvas",
+    "Sem título 1.canvas"
   ]
 }
