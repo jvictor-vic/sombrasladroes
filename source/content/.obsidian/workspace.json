@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "430bb6037403812c",
+        "id": "621636b60f363929",
         "type": "tabs",
         "children": [
           {
-            "id": "22455f2beac1fd09",
+            "id": "cc45d801165ddadb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Sombras & Ladrões/Personagens/Piratas/Conclave Espadana/Butch, Olho Sangrento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Butch, Olho Sangrento"
             }
           }
         ]
@@ -190,44 +194,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "22455f2beac1fd09",
+  "active": "2ade7fa3c9e21a37",
   "lastOpenFiles": [
+    "Sombras & Ladrões/Personagens/Piratas/Conclave Espadana/Bispo.md",
+    "Sombras & Ladrões/Trilha Sonora/Trilha Sonora - Sombras e Ladrões.md",
+    "Sombras & Ladrões/Trilha Sonora/Untitled",
+    "Sombras & Ladrões/Piratas/Companhias Piratas.md",
+    "Sombras & Ladrões/Personagens/Gangues/Lobos/Noah Lupita.md",
+    "Sombras & Ladrões/Personagens/Piratas",
+    "Sombras & Ladrões/Personagens/Gangues",
+    "Sombras & Ladrões/Diários de Sessões/Temporada 1/Baile de Lua Cheia (Temporada 1 - Sessão 6).md",
+    "Sombras & Ladrões/Personagens/Gangues/Corujas/Personagens de Player/Catherine.md",
+    "Sombras & Ladrões/Diários de Sessões/Temporada 1/Reformulação de Negócios (Temporada 1 - Sessão 5.2).md",
+    "Sombras & Ladrões/Personagens/Gangues/Corujas/Personagens de Player/Jake.md",
+    "Sombras & Ladrões/Personagens/Piratas/Conclave Espadana/Rubi.md",
     "index.md",
     "Sombras & Ladrões/Jornais/O Orador do Povo/Heroísmo Popular no Clube Gorila.md",
-    "Sombras & Ladrões/Diários de Sessões/Temporada 1/Reformulação de Negócios (Temporada 1 - Sessão 5.2).md",
-    "Sombras & Ladrões/Personagens/Gorilas/Personagens de Player/Domenique.md",
+    "Sombras & Ladrões/Personagens/Gangues/Gorilas/Personagens de Player/Domenique.md",
     "Sombras & Ladrões/Jornais/Voz do Povo/Resenha Politica - Ataque a prisão de Ordoom.md",
-    "Sombras & Ladrões/Personagens/Corujas/Zyan.md",
+    "Sombras & Ladrões/Personagens/Gangues/Corujas/Zyan.md",
     "Sombras & Ladrões/Jornais/O Orador do Povo",
     "Sombras & Ladrões/Jornais/Voz do Povo/Resenha Política - Homicidio.md",
-    "Sombras & Ladrões/Personagens/Corujas/Personagens de Player/Robert Jr (Antigo Richard).md",
+    "Sombras & Ladrões/Personagens/Gangues/Corujas/Personagens de Player/Robert Jr (Antigo Richard).md",
     "Sombras & Ladrões/Locais/Porto Real/Cabaret du Gorille.md",
     "Sombras & Ladrões/Locais/Porto Real/Clube Lótus.md",
-    "Sombras & Ladrões/Personagens/Corujas/Vince Maria.md",
-    "Sombras & Ladrões/Personagens/Gorilas/Clarisse Maria.md",
+    "Sombras & Ladrões/Personagens/Gangues/Corujas/Vince Maria.md",
+    "Sombras & Ladrões/Personagens/Gangues/Gorilas/Clarisse Maria.md",
     "Sombras & Ladrões/Itens/Lista de Armas.md",
     "Sombras & Ladrões/Gangues.md",
-    "Sombras & Ladrões/Personagens/Ursos",
-    "Sombras & Ladrões/Personagens/Aranhas",
-    "Sombras & Ladrões/Personagens/Águias",
-    "Sombras & Ladrões/Personagens/Gorilas/Personagens de Player",
+    "Sombras & Ladrões/Personagens/Gangues/Ursos",
+    "Sombras & Ladrões/Personagens/Gangues/Aranhas",
+    "Sombras & Ladrões/Personagens/Gangues/Águias",
+    "Sombras & Ladrões/Personagens/Gangues/Gorilas/Personagens de Player",
     "Sombras & Ladrões/Personagens/Richard Trevithick.md",
-    "Sombras & Ladrões/Trilha Sonora/Trilha Sonora - Sombras e Ladrões.md",
     "Sombras & Ladrões/Lore/Primeira Revolução Industrial de Eesilas.md",
     "Sombras & Ladrões/Lore/Grandes Epidemias.md",
     "Sombras & Ladrões/Sombras e Ladrões.md",
-    "Sombras & Ladrões/Ficha - Sombras & Ladrões.md",
-    "Sombras & Ladrões/Federação das Colônias.md",
-    "Sombras & Ladrões/Arquétipos Sombras & Ladrões.md",
-    "Sombras & Ladrões/Personagens/Corujas/Personagens de Player/Jake.md",
-    "Sombras & Ladrões/Personagens/Corujas/Personagens de Player/Margaret.md",
-    "Sombras & Ladrões/Personagens/Corujas/Personagens de Player/Catherine.md",
-    "Sombras & Ladrões/Personagens/Turmalinas/Miri Turmalina.md",
     "Sombras & Ladrões/Diários de Sessões/Temporada 1",
     "Sombras & Ladrões/Diários de Sessões",
-    "Sombras & Ladrões/Itens/Armas/Armas Corpo-a-Corpo",
-    "Sombras & Ladrões/Itens/Armas/Armas de Fogo",
-    "Sombras & Ladrões/Itens/Armas",
     "Sem título.canvas",
     "Sem título 1.canvas"
   ]

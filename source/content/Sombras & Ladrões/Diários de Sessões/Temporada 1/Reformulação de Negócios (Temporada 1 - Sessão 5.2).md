@@ -1,6 +1,6 @@
 ---
-Anterior: 
-Próxima: 
+Anterior:
+Próxima: "[[Baile de Lua Cheia (Temporada 1 - Sessão 6)]]"
 Data: 2025-07-27
 ---
 ## Carta ao [[Robert Jr (Antigo Richard)]]
