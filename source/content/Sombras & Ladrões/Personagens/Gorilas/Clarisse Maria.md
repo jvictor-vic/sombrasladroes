@@ -19,7 +19,7 @@ Idade: 24
  >[[Zyan]] - Melhor Amigo (Considera ele como um irmão mais novo)
 
 ## Aparência
-Morena levemente alta, meio pálida, tem vitiligo olhos bem escuros, usa um vestido estilho flapper tipo a imagem, ela usa uma jaqueta de pele também.
+Morena levemente alta, meio pálida, tem vitiligo olhos bem escuros, usa roupas estilo art deco com muito brilho abusando de cores escuras.
 
 ==Adicionar detalhes==
 

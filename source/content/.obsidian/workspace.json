@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "966e136251368592",
+        "id": "430bb6037403812c",
         "type": "tabs",
         "children": [
           {
-            "id": "ce23a863e6ed6a0e",
+            "id": "22455f2beac1fd09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -44,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -156,8 +152,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -184,53 +180,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ce23a863e6ed6a0e",
+  "active": "22455f2beac1fd09",
   "lastOpenFiles": [
-    "Sombras & Ladrões/Sombras e Ladrões.md",
-    "Sombras & Ladrões/Federação das Colônias.md",
     "index.md",
+    "Sombras & Ladrões/Jornais/O Orador do Povo/Heroísmo Popular no Clube Gorila.md",
     "Sombras & Ladrões/Diários de Sessões/Temporada 1/Reformulação de Negócios (Temporada 1 - Sessão 5.2).md",
-    "Sombras & Ladrões/Personagens/Domenique.md",
+    "Sombras & Ladrões/Personagens/Gorilas/Personagens de Player/Domenique.md",
+    "Sombras & Ladrões/Jornais/Voz do Povo/Resenha Politica - Ataque a prisão de Ordoom.md",
+    "Sombras & Ladrões/Personagens/Corujas/Zyan.md",
+    "Sombras & Ladrões/Jornais/O Orador do Povo",
+    "Sombras & Ladrões/Jornais/Voz do Povo/Resenha Política - Homicidio.md",
     "Sombras & Ladrões/Personagens/Corujas/Personagens de Player/Robert Jr (Antigo Richard).md",
+    "Sombras & Ladrões/Locais/Porto Real/Cabaret du Gorille.md",
+    "Sombras & Ladrões/Locais/Porto Real/Clube Lótus.md",
+    "Sombras & Ladrões/Personagens/Corujas/Vince Maria.md",
+    "Sombras & Ladrões/Personagens/Gorilas/Clarisse Maria.md",
+    "Sombras & Ladrões/Itens/Lista de Armas.md",
+    "Sombras & Ladrões/Gangues.md",
+    "Sombras & Ladrões/Personagens/Ursos",
+    "Sombras & Ladrões/Personagens/Aranhas",
+    "Sombras & Ladrões/Personagens/Águias",
+    "Sombras & Ladrões/Personagens/Gorilas/Personagens de Player",
+    "Sombras & Ladrões/Personagens/Richard Trevithick.md",
+    "Sombras & Ladrões/Trilha Sonora/Trilha Sonora - Sombras e Ladrões.md",
+    "Sombras & Ladrões/Lore/Primeira Revolução Industrial de Eesilas.md",
+    "Sombras & Ladrões/Lore/Grandes Epidemias.md",
+    "Sombras & Ladrões/Sombras e Ladrões.md",
+    "Sombras & Ladrões/Ficha - Sombras & Ladrões.md",
+    "Sombras & Ladrões/Federação das Colônias.md",
+    "Sombras & Ladrões/Arquétipos Sombras & Ladrões.md",
     "Sombras & Ladrões/Personagens/Corujas/Personagens de Player/Jake.md",
     "Sombras & Ladrões/Personagens/Corujas/Personagens de Player/Margaret.md",
-    "Sombras & Ladrões/Ficha - Sombras & Ladrões.md",
-    "Sombras & Ladrões/Personagens/Corujas/Vince Maria.md",
-    "Sombras & Ladrões/Personagens/Corujas/Zyan.md",
-    "Sombras & Ladrões/Personagens/Richard Trevithick.md",
     "Sombras & Ladrões/Personagens/Corujas/Personagens de Player/Catherine.md",
-    "Sombras & Ladrões/Personagens/Gorilas/Clarisse Maria.md",
     "Sombras & Ladrões/Personagens/Turmalinas/Miri Turmalina.md",
-    "Sombras & Ladrões/Personagens/Conclave Espadana/Rubi.md",
-    "Sombras & Ladrões/Personagens/Conclave Espadana/Butch, Olho Sangrento.md",
-    "Sombras & Ladrões/Personagens/Conclave Espadana/Bispo.md",
-    "category-folder/Some note.md",
-    "category-folder/index.md",
-    "Sombras & Ladrões/Arquétipos/Místicos/Atirador Rúnico.md",
     "Sombras & Ladrões/Diários de Sessões/Temporada 1",
     "Sombras & Ladrões/Diários de Sessões",
-    "Sombras & Ladrões/Gangues.md",
-    "Sombras & Ladrões/Arquétipos Sombras & Ladrões.md",
-    "Sombras & Ladrões/Arquétipos/Mundanos/Pistoleiro.md",
-    "Sombras & Ladrões/Arquétipos/Mundanos/Batedor.md",
-    "Sombras & Ladrões/Arquétipos/Mundanos/Espião.md",
     "Sombras & Ladrões/Itens/Armas/Armas Corpo-a-Corpo",
     "Sombras & Ladrões/Itens/Armas/Armas de Fogo",
     "Sombras & Ladrões/Itens/Armas",
-    "Sombras & Ladrões/Itens",
-    "Sombras & Ladrões/Lore",
-    "Sombras & Ladrões/Magias/Gisha/Sombra",
-    "Sombras & Ladrões/Magias/Gisha",
-    "Sombras & Ladrões/Magias",
     "Sem título.canvas",
     "Sem título 1.canvas"
   ]

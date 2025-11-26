@@ -41,7 +41,4 @@ Os símbolos escolhidos da [[Gangues]] eram animais, fruto das crenças xamanist
 ### As colônias
 
 
-## Ficha
-![[Ficha - Sombras & Ladrões]]
-
 ## A

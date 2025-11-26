@@ -15,3 +15,7 @@ Idade:
 >[!note]- Relações
 
 ## Aparência
+
+
+## Richard Comp
+- Faliu, custando 4998556 Reis

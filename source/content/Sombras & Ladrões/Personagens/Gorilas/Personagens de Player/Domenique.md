@@ -3,7 +3,7 @@ tags:
   - "#SombrasELadroes"
 Jogador:
   - Alanna
-Gangue: 
+Gangue: "[[Gorilas]]"
 Filiações: 
 Arquétipos:
   - Alquimista 4
