@@ -17,4 +17,5 @@ Data:
 - Algumas das pessoas com cara de rico e nariz empinado ficam incomodadas ou inquietas com a chegada dos nobres;
 - Os nobres são acompanhados até mesas especiais reservadas;
 - Após se confortarem a mesa, [[Noah Lupita]] os recepciona e cria suspense sobre **"O Livro"**;
-- 
+
+

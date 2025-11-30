@@ -40,5 +40,5 @@ Lista de musicas para trilha sonora de [[Sombras e Ladrões]]
 - [Mirror Reaper - Bell Witch](https://youtu.be/50Mei8QVig4)
 
 
-
+## Separadas porém não utilizadas
 - [Gnosis - Russian Circles](https://youtu.be/aqUUOv2CF_Y)

@@ -1,3 +1,6 @@
+---
+draft: "false"
+---
 
 Lista de musicas para trilha sonora da **segunda temporada** de [[Sombras e Ladrões]]
 
@@ -6,8 +9,9 @@ Lista de musicas para trilha sonora da **segunda temporada** de [[Sombras e Ladr
 - Música Tema B: [A Gallant Gentleman](https://youtu.be/9pSRogfkL6Y)
 
 #### Personagens
-- Capitão: [Trouble - Cage The Elephant](https://youtu.be/w41e0aBkoZs)
-
+- [[Jack Rackham]]: [Trouble - Cage The Elephant](https://youtu.be/w41e0aBkoZs)
+- [[Willem]]:
+	![[Willem#lista de músicas]]
 #### Ambientação
 - [In The House - In a Heartbeat - John Murphy](https://youtu.be/aF10I72tsio)
 - [The Gravel Road - James Newton Howard - The Village](https://youtu.be/oTfh4K_kHho)
@@ -21,7 +25,3 @@ Lista de musicas para trilha sonora da **segunda temporada** de [[Sombras e Ladr
 - [The Kraken - Hans Zimmer - Pirates of Caribbean 2](https://youtu.be/NzzGWfPI2YU)
 - [A Dance With Death - We Lost At Sea](https://youtu.be/rxvrxR3fjN8)
 - [Mirror Reaper - Bell Witch](https://youtu.be/50Mei8QVig4)
-
-
-
-- [Gnosis - Russian Circles](https://youtu.be/aqUUOv2CF_Y)

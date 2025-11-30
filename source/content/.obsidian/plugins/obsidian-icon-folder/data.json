@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiMusic",
       "LiPersonStanding",
       "🪄",
       "LiNewspaper",
-      "LiLandmark",
-      "LiNotebookPen"
+      "LiLandmark"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "Sombras & Ladrões/Locais": "LiLandmark",
   "Sombras & Ladrões/Jornais": "LiNewspaper",
   "Sombras & Ladrões/Magias": "🪄",
-  "Sombras & Ladrões/Personagens": "LiPersonStanding"
+  "Sombras & Ladrões/Personagens": "LiPersonStanding",
+  "Sombras & Ladrões/Trilha Sonora": "LiMusic"
 }

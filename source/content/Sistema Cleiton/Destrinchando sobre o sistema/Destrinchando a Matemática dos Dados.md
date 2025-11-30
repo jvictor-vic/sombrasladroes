@@ -14,9 +14,9 @@ A primeira pergunta que devemos responder é: "Porque devo pensar em probabilida
 
 Já o elefante da sala **PowerGaming**, bem a visão geral do meio é que **PowerGaming** é algo negativo e que deve ser evitado, porém pense sobre o lado da evolução do personagem, do personagem ficar mais forte com o tempo, não precisa ser igual em *Animes* mas é parte do jogo maioria das vezes a evolução do poder do personagem. E quem vai ditar isso? A probabilidade! **PowerGaming** nada mais é do que otimizar as probabilidades do resultado positivo acontecer.
 
-	"Que a sorte esteja a seu favor"
-	
-	Talvez essa sorte não seja sua sorte e sim o jogo dentro do jogo
+>"Que a sorte esteja a seu favor"
+>
+>Talvez essa sorte não seja sua sorte e sim o jogo dentro do jogo
 
 # Analisando as Probabilidades de um Dado
 

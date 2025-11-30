@@ -1,8 +1,8 @@
 ---
-title: Bem-vindo ao universo de Sombra&Ladrões
+title: Sombras&Ladrões
 ---
 <h1 style="font-style: oblique; font-family: 'cursive'; text-align: center" >
-	Bem-vindo ao universo de Sombra&Ladrões
+	Bem-vindo ao universo de Sombras&Ladrões
 </h1>
 
 ## Um TTRPG de ação, bandidagem, negócios, política e misticismo

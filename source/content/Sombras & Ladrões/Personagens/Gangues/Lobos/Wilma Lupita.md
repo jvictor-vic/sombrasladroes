@@ -13,6 +13,7 @@ Idade: 24
 > [[Lobos]] - Matilheira
 
 >[!note]- Relações
+>[[Noah Lupita]] - Irmão
  >[[Clarisse Maria]] - Ex-Melhor Amiga
  
 ## Aparência
@@ -25,12 +26,12 @@ Forte e alta
 | ---------------- | --- | ----------------- | --- | ----------- | --- |
 | **Destreza**     | 12  | **Educação**      | 8   | **Saltar**  | 3   |
 | **Constituição** | 13  | **Empatia**       | 9   | **Pular**   | 1,5 |
-| **Tamanho**      | 14  | **Auto Controle** | 13  | **Escalar** | 3   |
+| **Tamanho**      | 16  | **Auto Controle** | 13  | **Escalar** | 3   |
 ### Status
 
-| Iniciativa |     | Bônus de Dano |     | Vida Atual      |     |
+| Iniciativa | 22  | Bônus de Dano |     | Vida Atual      | 42  |
 | ---------- | --- | ------------- | --- | --------------- | --- |
-| Esquiva    |     | Efeitos       |     | Vida Temporária |     |
+| Esquiva    | 16  | Efeitos       |     | Vida Temporária |     |
 
 ### Arquétipos
 #### Carrasco 4
