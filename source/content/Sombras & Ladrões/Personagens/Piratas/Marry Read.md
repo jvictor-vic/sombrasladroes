@@ -12,6 +12,7 @@ Idade: 25
 
 
 >[!note]- Relações
+>
 
 
 ## Aparência
