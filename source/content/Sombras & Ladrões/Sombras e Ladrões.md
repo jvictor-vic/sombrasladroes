@@ -3,11 +3,11 @@ Campanha de estilo vitoriano, com estética obscura ocorre na cidade de [[Porto 
 
 
 ## Lore Antecedente
-### O continente antes do Império do Aço
+### O continente antes do [[Império do Aço]]
 
 Antes da [[Primeira Revolução Industrial de Eesilas]], o continente de [[Eesilas]] era totalmente rural, liderado por famílias reais fortes. Os únicos capazes de contestar o poder do sangue real eram aqueles aventureiros que tiveram sorte de achar [[rotas comerciais]] muito rentáveis, e com influencia suficiente para controla-las. Por conta da importância de tais [[rotas comerciais]], muitos reis e rainhas faziam acordos e transformavam estas pessoas em seus lordes e ministros. A estabilidade do sangue real durou bastante até a [[Primeira Revolução Industrial de Eesilas]], quando todo o poder das famílias reais começou a ser contestado.
 
-### Surgimento do Império do Aço
+### Surgimento do [[Império do Aço]]
 
 Quando os humanos dominaram o vapor, aqueles que conheciam sobre as fontes de combustível mineral, o carvão mineral e enxofre, surge uma nova classe buscando o poder, visando usar esses combustíveis para alimentar maquinas cada vez maiores seus bolsos se enchiam cada vez mais. Em meio a tantas invenções, desde de industrias têxteis a mineradoras movidas a vapor, as [[rotas comerciais]] ainda detinham importância, logo a nobreza ainda tinha poder, porem de forma espaça separada em diversas famílias reais.
 

@@ -6,13 +6,14 @@ tags:
 Navio:
 Filiações:
 Arquétipos:
-Idade: 28
+Idade: 25
+draft: "false"
 ---
 > [!note]- Filiações
 
 
 >[!note]- Relações
->[[Anne Bonny]] - Amada
+>
 
 
 ## Aparência

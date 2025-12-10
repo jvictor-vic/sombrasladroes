@@ -1,3 +1,6 @@
+---
+dra: "false"
+---
 
 ## Efeitos Aleatórios
 1. **Dissociação:** a [[Gisha]] perde controle do seu corpo para as sombras por 1d3 rodadas;

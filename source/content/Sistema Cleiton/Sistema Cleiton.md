@@ -51,7 +51,7 @@ Essas são as [[Sistema Cleiton#Regras de Rolagem|Regras de Rolagem]] com base n
 ##### 2d20 + [[Sistema Cleiton#Perícias|Perícia]]
 Essa [[Sistema Cleiton#Regras de Rolagem|Regra de Rolagem]] utiliza de [[Dice Pool]] para balancear os resultados, os 2d20 são somados e somados a [[Sistema Cleiton#Perícias|perícias]].
 
-Rolar um valor maior que o **CD** é considerado um sucesso, caso seja o dobro do **CD** 2, e assim sucessivamente. Qualquer 1 rolado é uma falha e 20 rolado um sucesso. Falhas e sucessos são somados para dar o resultado, caso a soma seja 0, vale o resultado contra o CD.
+Rolar um valor maior que o **CD** é considerado um sucesso, caso seja o dobro do **CD** 2 sucessos, e assim sucessivamente. Qualquer 1 rolado é uma falha e 20 rolado um sucesso. Falhas e sucessos são somados para dar o resultado, caso a soma seja 0, vale o resultado contra o CD.
 
 As regras de vantagem e desvantagem são as seguintes:
 - **Vantagem**: Para cada **vantagem** é adicionado 1d20 a [[Dice Pool]];

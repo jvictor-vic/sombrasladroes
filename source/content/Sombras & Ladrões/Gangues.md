@@ -1,5 +1,4 @@
 - [[Águias]]
-- [[Aranhas]]
 - [[Corujas]]
 - [[Gorilas]]
 - [[Lobos]]

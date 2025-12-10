@@ -23,6 +23,4 @@ A cada 100 pontos de Experiencia recebidos, um novo arquétipo pode ser escolhid
 - [[Pirata]]
 - [[Pistoleiro]]
 
-## Lista de Arquétipos Místicos
-- [[Atirador Rúnico]]
-- [[Gisha]]
+

@@ -1,3 +1,7 @@
+---
+Gangue: "[[Lobos]]"
+draft: "false"
+---
 
 
 ## Ficha

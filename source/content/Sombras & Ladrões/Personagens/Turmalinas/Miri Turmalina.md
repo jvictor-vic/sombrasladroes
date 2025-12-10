@@ -3,11 +3,12 @@ tags:
   - SombrasELadroes
   - Ciganos
   - Gisha
-Gangue: 
+Gangue:
 Filiações:
   - "[[Gorilas]]"
-Arquétipos: 
+Arquétipos:
 Idade: 16
+draft: "false"
 ---
 > [!note]- Filiações
 > [[Gorilas]] - Associada

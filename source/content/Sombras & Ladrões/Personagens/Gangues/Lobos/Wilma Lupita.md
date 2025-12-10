@@ -3,11 +3,12 @@ tags:
   - SombrasELadroes
   - Lobos
 Gangue: "[[Lobos]]"
-Filiações: 
+Filiações:
 Arquétipos:
   - Carrasco 4
   - Assassina 3
 Idade: 24
+draft: "false"
 ---
 > [!note]- Filiações
 > [[Lobos]] - Matilheira

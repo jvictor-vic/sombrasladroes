@@ -6,14 +6,13 @@ tags:
 Navio:
 Filiações:
 Arquétipos:
-Idade: 25
+Idade: 27
+draft: "false"
 ---
 > [!note]- Filiações
 
 
 >[!note]- Relações
->
-
 
 ## Aparência
 
