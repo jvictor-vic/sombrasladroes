@@ -7,7 +7,7 @@ Navio:
 Filiações:
 Arquétipos:
 Idade: 28
-dra: "false"
+draft: "false"
 ---
 > [!note]- Filiações
 

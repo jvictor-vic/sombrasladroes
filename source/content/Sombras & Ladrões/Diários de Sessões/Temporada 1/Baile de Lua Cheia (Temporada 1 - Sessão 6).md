@@ -2,7 +2,7 @@
 Anterior: "[[Reformulação de Negócios (Temporada 1 - Sessão 5.2)]]"
 Próxima:
 Data:
-dra: "false"
+draft: "false"
 ---
 ## Funcionários Chegam Primeiro
 - [[Jake]] junto com a banda **A** chegam até o local e começam as preparações para o show do baile;
@@ -34,18 +34,21 @@ dra: "false"
 
 ## Baile de Máscaras
 - [[Clarisse Maria]], [[Wilma Lupita]] e [[Robert Jr (Antigo Richard)]] vão analisar algumas obras;
-	- "A arte é como uma expressão **viva**, não?";
-	- "Essa obras são especiais, elas tem um ar **místico** nelas";
-	- "Curioso como nos éramos andarilhos protegidos apenas por nossos [[Kayá]]";
-	- "Antes da [[Primeira Revolução Industrial de Eesilas]], e do [[Império do Aço]], conselheiras usavam o **místico** para ajudar as maiores e mais poderosas linhagens reais. Muitas vezes retratadas com os olhos vendados, alguns relatam que para experenciar o **sobrenatural** em sua maior intensidade, outros que seja uma forma de controlá-las"
-	- "A verdade é que foram muito temidas, e hoje, não se ouvem mais suas histórias. Muito por conta do [[Império do Aço]] e a [[Caça às Bruxas]], com fim de enfraquecer o poder dos reinados e tomar conta de maiores e mais influentes governos"
-	- "No final a guerra foi vencida com o sangue do povo, mas as histórias ainda seguem no fundo da memória dos **Portelences** ofuscada pelo medo e suspense de um passado desconhecido"
-	- "É sobre isso que essas obras falam, a nossa grande coleção a ser vendida hoje, com obras encontradas nas [[As Colônias|Colônias]] e em uma antiga mansão real de [[Eesilas]] ao nosso leste"
+	- "A arte é como uma expressão **viva**, não?"; (Dança da Luz e Sombra)
+	- "Essa obras são especiais, elas tem um ar **místico** nelas"; (Os Ordus)
+	- "Curioso como nos éramos andarilhos protegidos apenas por nossos [[Kayá]]"; (Mercadores - Porto Real)
+	- "Antes da [[Primeira Revolução Industrial de Eesilas]], e do [[Império do Aço]], conselheiras usavam o **místico** para ajudar as maiores e mais poderosas linhagens reais. Muitas vezes retratadas com os olhos vendados, alguns relatam que para experenciar o **sobrenatural** em sua maior intensidade, outros que seja uma forma de controlá-las" (A Conselheira Velada)
+	- "A verdade é que foram muito temidas, e hoje, não se ouvem mais suas histórias. Muito por conta do [[Império do Aço]] e a [[Caça às Bruxas]], com fim de enfraquecer o poder dos reinados e tomar conta de maiores e mais influentes governos" (A Conselheira Em Chamas)
+	- "No final a guerra foi vencida com o sangue do povo, mas as histórias ainda seguem no fundo da memória dos **Portelences** ofuscada pelo medo e suspense de um passado desconhecido" (A Anciã)
+	- "É sobre isso que essas obras falam, a nossa grande coleção a ser vendida hoje, com obras encontradas nas [[As Colônias|Colônias]] e em uma antiga mansão real de [[Eesilas]] ao nosso leste" 
 - [[Wilma Lupita]] sussurra para [[Clarisse Maria]]: "O mestre falou que talvez exista uma obra de valor incontável em jogo", então segue pelo corredor;
 - "O baile de máscaras vai começar, não se esqueçam que quem você é, na mascará ficará. Aproveitem a brincadeira pois em instantes sérias obras primas iremos leiloar!" - Recita o **Apresentador**
 - [[Wilma Lupita]] segue até a mesa da família real [[Valmarinho]] e recita a mesma apresentação, então os acompanha de volta até a mesa;
 - Depois, [[Wilma Lupita]] apresenta aos [[Benfina]] as obras, recitando a mesma apresentação novamente (Com ênfase, caso perceba que a [[Catherine]] está junto a [[Clarisse Maria|Clarisse]]; talvez a encarando de canto de olho), e então os acompanha até a mesa novamente;
-- A festa se segue com um baile até que começe o leilão;
+- A festa se segue com um baile até que comece o leilão;
+- [[Robert Jr (Antigo Richard)]], faz o [[Jake]] esperar no armazém do porão depois do leilão;
+- "Nos encontre no final do corredor, após o sinal", para [[Catherine]]
+
 
 ## O Leilão
 
@@ -100,4 +103,22 @@ o bar clama por minha presença.
 </span>
 
 - Começa, então, o leilão;
-- 
+- "[[Robert Jr (Antigo Richard)|Robert]], temos 5 quadros para comprar" - [[Clarisse Maria]];
+	- Se ele perguntar sobre o sexto: "Eles não precisam que não está a venda"
+	- (Trilha Sonora: Cage The Elephant - Punchin' Bag)
+
+## Festa de Despedida
+- "Será se nobres sangram azul", para [[Domenique]];
+- "Venham dar uma olhada melhor nas suas novas aquisições", [[Wilma Lupita]] para [[Clarisse Maria]] e [[Robert Jr (Antigo Richard)]];
+- Eles são levados até o fim do corredor, depois de descer a escada, o espaço até o porão está altamente vigiado;
+- [[Jake]] consegue ver as pessoas por alguns ângulos entre as vidraças e cortinas;
+- (Trilha Sonora: [Viele Füchse Für Euch Hänsel - Hans Zimmer - Sherlock Holmes A Game of Shadows](https://youtu.be/cdwvTOcWLZY))
+- 4 [[Protetor Lobo]] e 2 [[Vigia Lobo]] guardam o andar;
+- (Para não ser notados, CD 50);
+- (Para se mover chamando pouca atenção, CD 25)
+
+### Um Porão Escuro e Estranho
+- O ar é bem pesado e úmido, uma mistura de cheiro de terra com esgoto e fumaça;
+- Todas as salas estão bem iluminadas, com exceção dos corredores e armazém;
+- Porta do armazém está trancada (CD 40, Chaveiro)
+- (Trilha Sonora: Everything Here is Black and Blinding - We lost At Sea)
