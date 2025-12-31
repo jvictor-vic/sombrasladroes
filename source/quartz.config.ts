@@ -23,8 +23,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        title: "New Rocker",
+        header: "Aladin", //"Schibsted Grotesk"
+        body: "Pirata One", //"Source Sans Pro"
         code: "IBM Plex Mono",
       },
       colors: {
@@ -45,10 +46,10 @@ const config: QuartzConfig = {
           gray: "#716D74",
           darkgray: "#FFECD6",
           dark: "#FFF8F0",
-          secondary: "#9055A2",
+          secondary: "#EACE34",
           tertiary: "#B07156",
-          highlight: "#EACE3440",
-          textHighlight: "#EACE34",
+          highlight: "#9055a250",
+          textHighlight: "#9055A2",
         },
       },
     },
