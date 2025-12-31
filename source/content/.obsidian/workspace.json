@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sombras & Ladrões/Magias/Gisha/Magias Gisha da Sombra.md",
+                "file": "Identidade Visual/Tipografia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magias Gisha da Sombra"
-            }
-          },
-          {
-            "id": "5ada61ecf4ea4654",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sombras & Ladrões/Ficha - Sombras & Ladrões.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ficha - Sombras & Ladrões"
+              "title": "Tipografia"
             }
           }
         ]
@@ -210,6 +196,27 @@
   },
   "active": "759e7b088b99f3bc",
   "lastOpenFiles": [
+    "Identidade Visual/Paleta de Cores.png",
+    "Identidade Visual/Tipografia.md",
+    "Identidade Visual/Tipografia",
+    "Identidade Visual/Exemplos - Tipografia/Tipografia - Six Caps.png",
+    "Identidade Visual/Exemplos - Tipografia/Tipografia - Sancreek.png",
+    "Identidade Visual/Exemplos - Tipografia/Tipografia - Rye.png",
+    "Identidade Visual/Exemplos - Tipografia/Tipografia - Pirata One.png",
+    "Identidade Visual/Exemplos - Tipografia/Tipografia - New Rocker.png",
+    "Identidade Visual/Exemplos - Tipografia/Tipografia - Medula One.png",
+    "Identidade Visual/Exemplos - Tipografia/Tipografia - Grenze Gotisch.png",
+    "Identidade Visual/Exemplos - Tipografia/Tipografia - Aladin.png",
+    "Identidade Visual/Exemplos - Tipografia",
+    "Identidade Visual",
+    "Pasted image 20251230190821.png",
+    "Sombras & Ladrões/Ficha - Sombras & Ladrões.md",
+    "Sombras & Ladrões/Itens/Lista de Armas.md",
+    "Sombras & Ladrões/Itens/Armas/Armas de Fogo/A revolucionária.md",
+    "Sombras & Ladrões/Itens/Armas/Armas de Fogo/A mercenária.md",
+    "Sombras & Ladrões/Itens/Armas/Armas de Fogo/0-Modelo Arma de Fogo.md",
+    "Sombras & Ladrões/Diários de Sessões/Temporada 1/Reformulação de Negócios (Temporada 1 - Sessão 5.2).md",
+    "Sombras & Ladrões/Magias/Gisha/Magias Gisha da Sombra.md",
     "Sombras & Ladrões/Locais/Eesilas/Porto Real.md",
     "Sombras & Ladrões/Locais/Eesilas/Bourbona.md",
     "Sombras & Ladrões/Locais/Eesilas/Porto Real/Clube Lótus.md",
@@ -220,7 +227,6 @@
     "Sombras & Ladrões/Arquétipos/Místicos/Atirador Rúnico.md",
     "Sombras & Ladrões/Trilha Sonora/Trilha Sonora Temporada 2 - Sombras E Ladrões.md",
     "Sombras & Ladrões/Trilha Sonora/Trilha Sonora Temporada 1 - Sombras e Ladrões.md",
-    "Sombras & Ladrões/Ficha - Sombras & Ladrões.md",
     "Sombras & Ladrões/Personagens/Gangues/Corujas/Personagens de Player/Catherine.md",
     "Sombras & Ladrões/Sombras e Ladrões.md",
     "Sombras & Ladrões/Gangues.md",
@@ -228,14 +234,6 @@
     "Sombras & Ladrões/Locais/Federação das Colônias.md",
     "Sombras & Ladrões/Piratas/Código de Pirataria.md",
     "Sombras & Ladrões/Piratas/Companhias Piratas.md",
-    "Sombras & Ladrões/Personagens/Richard Trevithick.md",
-    "Sombras & Ladrões/Personagens/Turmalinas/Miri Turmalina.md",
-    "Sombras & Ladrões/Personagens/Turmalinas/Morgana Turmalina.md",
-    "Sombras & Ladrões/Personagens/Gangues/Lobos/Wilma Lupita.md",
-    "Sombras & Ladrões/Personagens/Gangues/Lobos/Noah Lupita.md",
-    "Sombras & Ladrões/Personagens/Gangues/Lobos/PDMS/Zelador Lobo.md",
-    "Sombras & Ladrões/Personagens/Gangues/Lobos/PDMS/Vigia Lobo.md",
-    "Sombras & Ladrões/Personagens/Gangues/Lobos/PDMS/Protetor Lobo.md",
     "Sombras & Ladrões/Locais/Eesilas",
     "Sombras & Ladrões/Locais/Federação das Colônias",
     "Sombras & Ladrões/Personagens/Fichas PDMs para Batalha",
@@ -243,9 +241,6 @@
     "Sombras & Ladrões/Lore/Revoltas Generais",
     "Sombras & Ladrões/Personagens/Gangues/Lobos/PDMS",
     "Sombras & Ladrões/Piratas/Temporada 2",
-    "Sombras & Ladrões/Trilha Sonora/Untitled",
-    "Sombras & Ladrões/Personagens/Piratas",
-    "Sombras & Ladrões/Personagens/Gangues",
     "Sem título.canvas",
     "Sem título 1.canvas"
   ]
