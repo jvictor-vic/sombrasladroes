@@ -1,9 +1,9 @@
 ---
 title: Sombras&Ladrões
 ---
-<h1 style="font-style: oblique; font-family: 'cursive'; text-align: center" >
-	Bem-vindo ao universo de Sombras&Ladrões
-</h1>
+<h3 style="text-align: center" >
+	Bem-vindo ao universo de Sombras & Ladrões
+</h3>
 
 ## Um TTRPG de ação, bandidagem, negócios, política e misticismo
 [[Sombras e Ladrões]] é um RPG onde os jogadores podem explorar um mundo vasto, em desenvolvimento onde muitas coisas ainda não foram descobertas.

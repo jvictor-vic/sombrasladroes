@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Identidade Visual/Tipografia.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tipografia"
+              "title": "index"
             }
           }
         ]
@@ -196,19 +196,26 @@
   },
   "active": "759e7b088b99f3bc",
   "lastOpenFiles": [
-    "Identidade Visual/Paleta de Cores.png",
-    "Identidade Visual/Tipografia.md",
+    "Sombras & Ladrões/Sombras e Ladrões.md",
+    "index.md",
+    "Sistema Cleiton/Sistema Cleiton.md",
+    "Sistema Cleiton/Destrinchando sobre o sistema/Destrinchando a Matemática dos Dados.md",
+    "Desenvolvimento/Identidade Visual/Paleta de Cores.png",
+    "Desenvolvimento",
+    "Identidade Visual/Untitled",
+    "Sombras & Ladrões/Untitled",
+    "Desenvolvimento/Identidade Visual/Tipografia.md",
     "Identidade Visual/Tipografia",
-    "Identidade Visual/Exemplos - Tipografia/Tipografia - Six Caps.png",
-    "Identidade Visual/Exemplos - Tipografia/Tipografia - Sancreek.png",
-    "Identidade Visual/Exemplos - Tipografia/Tipografia - Rye.png",
-    "Identidade Visual/Exemplos - Tipografia/Tipografia - Pirata One.png",
-    "Identidade Visual/Exemplos - Tipografia/Tipografia - New Rocker.png",
-    "Identidade Visual/Exemplos - Tipografia/Tipografia - Medula One.png",
-    "Identidade Visual/Exemplos - Tipografia/Tipografia - Grenze Gotisch.png",
-    "Identidade Visual/Exemplos - Tipografia/Tipografia - Aladin.png",
-    "Identidade Visual/Exemplos - Tipografia",
-    "Identidade Visual",
+    "Desenvolvimento/Identidade Visual/Exemplos - Tipografia/Tipografia - Six Caps.png",
+    "Desenvolvimento/Identidade Visual/Exemplos - Tipografia/Tipografia - Sancreek.png",
+    "Desenvolvimento/Identidade Visual/Exemplos - Tipografia/Tipografia - Rye.png",
+    "Desenvolvimento/Identidade Visual/Exemplos - Tipografia/Tipografia - Pirata One.png",
+    "Desenvolvimento/Identidade Visual/Exemplos - Tipografia/Tipografia - New Rocker.png",
+    "Desenvolvimento/Identidade Visual/Exemplos - Tipografia/Tipografia - Medula One.png",
+    "Desenvolvimento/Identidade Visual/Exemplos - Tipografia/Tipografia - Grenze Gotisch.png",
+    "Desenvolvimento/Identidade Visual/Exemplos - Tipografia/Tipografia - Aladin.png",
+    "Desenvolvimento/Identidade Visual/Exemplos - Tipografia",
+    "Desenvolvimento/Identidade Visual",
     "Pasted image 20251230190821.png",
     "Sombras & Ladrões/Ficha - Sombras & Ladrões.md",
     "Sombras & Ladrões/Itens/Lista de Armas.md",
@@ -228,19 +235,13 @@
     "Sombras & Ladrões/Trilha Sonora/Trilha Sonora Temporada 2 - Sombras E Ladrões.md",
     "Sombras & Ladrões/Trilha Sonora/Trilha Sonora Temporada 1 - Sombras e Ladrões.md",
     "Sombras & Ladrões/Personagens/Gangues/Corujas/Personagens de Player/Catherine.md",
-    "Sombras & Ladrões/Sombras e Ladrões.md",
     "Sombras & Ladrões/Gangues.md",
     "Sombras & Ladrões/Arquétipos Sombras & Ladrões.md",
     "Sombras & Ladrões/Locais/Federação das Colônias.md",
-    "Sombras & Ladrões/Piratas/Código de Pirataria.md",
-    "Sombras & Ladrões/Piratas/Companhias Piratas.md",
     "Sombras & Ladrões/Locais/Eesilas",
     "Sombras & Ladrões/Locais/Federação das Colônias",
     "Sombras & Ladrões/Personagens/Fichas PDMs para Batalha",
     "Sombras & Ladrões/Personagens/Piratas/O Purgardor",
-    "Sombras & Ladrões/Lore/Revoltas Generais",
-    "Sombras & Ladrões/Personagens/Gangues/Lobos/PDMS",
-    "Sombras & Ladrões/Piratas/Temporada 2",
     "Sem título.canvas",
     "Sem título 1.canvas"
   ]
