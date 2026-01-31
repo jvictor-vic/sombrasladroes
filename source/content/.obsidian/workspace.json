@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "afe9a36bfa2318c3",
@@ -211,9 +210,12 @@
   },
   "active": "a0710dfe7a15076c",
   "lastOpenFiles": [
-    "Sombras & Ladrões/Criação de Personagens/Ficha - Sombras & Ladrões.md",
-    "Sombras & Ladrões/Personagens/Gangues/Corujas/Personagens de Player/Catherine Languedoc Roussilon.md",
+    "Sombras & Ladrões/Trilha Sonora/Trilha Sonora - Sombras e Ladrões.md",
+    "Sombras & Ladrões/Trilha Sonora/Trilha Sonora Temporada 2 - Sombras E Ladrões.md",
     "Sombras & Ladrões/Trilha Sonora/Trilha Sonora Temporada 1 - Sombras e Ladrões.md",
+    "Sombras & Ladrões/Personagens/Gangues/Corujas/Personagens de Player/Jake.md",
+    "Sombras & Ladrões/Personagens/Gangues/Corujas/Personagens de Player/Catherine Languedoc Roussilon.md",
+    "Sombras & Ladrões/Criação de Personagens/Ficha - Sombras & Ladrões.md",
     "Sombras & Ladrões/Criação de Personagens/Talentos/Talento - Armeiro X.md",
     "Sombras & Ladrões/Diários de Sessões/Temporada 1/Baile de Lua Cheia (Temporada 1 - Sessão 6).md",
     "Sombras & Ladrões/Diários de Sessões/Temporada 1/Reformulação de Negócios (Temporada 1 - Sessão 5.2).md",
@@ -236,9 +238,6 @@
     "Sombras & Ladrões/Criação de Personagens/Talentos/Talento - Navegador.md",
     "Sombras & Ladrões/Criação de Personagens/Talentos/Talento - Músico X.md",
     "Sombras & Ladrões/Criação de Personagens/Talentos/Talento - Matemático XX.md",
-    "Sombras & Ladrões/Criação de Personagens/Talentos/Talento - Físico XX.md",
-    "Sombras & Ladrões/Criação de Personagens/Talentos/Talento - Ferreiro X.md",
-    "Sombras & Ladrões/Criação de Personagens/Talentos/Talento - Cozinheiro X.md",
     "Sombras & Ladrões/Criação de Personagens/Talentos/Untitled",
     "Sombras & Ladrões/Piratas/Organizações/Conclave Espadana",
     "Sombras & Ladrões/Dicionário PaaSa'Aonami",
