@@ -1,0 +1,47 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Aladin&family=New+Rocker&family=Pirata+One&display=swap');
+
+.new-rocker-regular {
+  font-family: "New Rocker", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.aladin-regular {
+  font-family: "Aladin", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.pirata-one-regular {
+  font-family: "Pirata One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.inline-title {
+  font-family: "New Rocker", serif !important;
+}
+
+
+.markdown-preview-view h1,
+.cm-header-1, .markdown-preview-view h2,
+.cm-header-2 {
+  font-family: "New Rocker", serif;
+}
+
+.markdown-preview-view h3,
+.cm-header-3,
+.markdown-preview-view h4,
+.cm-header-4,
+.markdown-preview-view h5,
+.cm-header-5,
+.markdown-preview-view h6,
+.cm-header-6 {
+  font-family: "Aladin", sans-serif;
+}
+.markdown-preview-view p,
+.cm-line,
+body {
+  --font-text: "Pirata One", sans-serif;
+}

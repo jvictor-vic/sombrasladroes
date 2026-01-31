@@ -5,7 +5,10 @@ title: Sombras&Ladrões
 	Bem-vindo ao universo de Sombras & Ladrões
 </h3>
 
-## Um TTRPG de ação, bandidagem, negócios, política e misticismo
+## Um TTRPG investigativo e de ação onde você não é o policial, e sim o ladrão.
+Em [[Sombras e Ladrões]] 
+
+## a
 [[Sombras e Ladrões]] é um RPG onde os jogadores podem explorar um mundo vasto, em desenvolvimento onde muitas coisas ainda não foram descobertas.
 
 Trata-se de uma campanha de estilo Vitoriano, marcada pelo desenvolvimento industrial e pela busca ao poder entre as coroas, a burguesia, o submundo das gangues, piratas e colônias. 

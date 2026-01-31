@@ -1,0 +1,5 @@
+---
+tags:
+  - "#Talentos"
+draft: "false"
+---

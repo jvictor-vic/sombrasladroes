@@ -1,0 +1,3 @@
+Em meio a ascensão da [[Blucher Co.]] e posteriormente [[Guerra do Fogo]] e [[Grandes Epidemias|As Grandes Epidemias]] as famílias mercantes ficam desoladas, sem retorno das suas expedições e com riscos cada vez maiores. Surge então As [[Gangues]], o submundo do comercio, começa pelo comercio de produtos que eram fiscalizados nos vagões das locomotivas e posteriormente o saque dos vagões durante as emboscadas, além da [[Pirataria]] especialmente com as famílias que faziam o comercio pelo mar.
+
+Os símbolos escolhidos da [[Gangues]] eram animais, fruto das crenças xamanistas das famílias nômades. Acredita-se que uma espécie em especifico de animal tem uma ligação ao sangue de cada família e é seu protetor, os comportamentos das famílias também se assemelham ao seu escudo.

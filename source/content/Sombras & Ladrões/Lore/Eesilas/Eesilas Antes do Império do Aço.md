@@ -1,0 +1,4 @@
+
+Antes da [[Primeira Revolução Industrial de Eesilas]], o continente de [[Eesilas]] era totalmente rural, liderado por famílias reais fortes. Os únicos capazes de contestar o poder do sangue real eram aqueles aventureiros que tiveram sorte de achar [[rotas comerciais]] muito rentáveis, e com influencia suficiente para controla-las. 
+
+Por conta da importância de tais [[rotas comerciais]], muitos reis e rainhas faziam acordos e transformavam estas pessoas em seus lordes e ministros. A estabilidade do sangue real durou bastante até a [[Primeira Revolução Industrial de Eesilas]], quando todo o poder das famílias reais começou a ser contestado.

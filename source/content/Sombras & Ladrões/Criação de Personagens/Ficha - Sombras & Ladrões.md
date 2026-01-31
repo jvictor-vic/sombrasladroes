@@ -37,7 +37,7 @@
 | [[Esquiva]]         |     | [[Resistência Física]] |     | [[Resistência Mental]] |     |
 
 ### Arquétipos
-![[Arquétipos Sombras & Ladrões]]
+![[Arquétipos - Sombras & Ladrões]]
 
 ### Pericias
 - Acrobacia (Des): 

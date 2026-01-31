@@ -3,13 +3,14 @@ tags:
   - SombrasELadroes
   - Piratas
   - "#Temporada2"
-Navio:
+Navio: "[[O Purgador]]"
 Filiações:
 Arquétipos:
 Idade: 28
 draft: "false"
 ---
 > [!note]- Filiações
+> [[O Purgador]] - Capitão
 
 
 >[!note]- Relações

@@ -7,8 +7,8 @@ draft: "false"
 ---
 ####  – ; 
 - 
-- **Modificador de Ataque:** Destreza 
-- **Habilidade de arma:** Armas de fogo – 
+- **Modificador de Ataque:** 
+- **Habilidade de arma:** 
 - **Precisão:** 
 - **Ataques por ação:** 
 - **Dano:** 

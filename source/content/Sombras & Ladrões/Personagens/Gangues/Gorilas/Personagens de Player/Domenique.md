@@ -1,10 +1,11 @@
 ---
 tags:
   - "#SombrasELadroes"
+  - Gorilas
 Jogador:
   - Alanna
 Gangue: "[[Gorilas]]"
-Filiações: 
+Filiações:
 Arquétipos:
   - Alquimista 4
   - Charlatão 3

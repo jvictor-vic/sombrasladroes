@@ -1,0 +1,5 @@
+Com a situação perdida a realeza resolve finalmente se unir novamente e busca acabar com o poder da [[Blucher Co.]], mostrar que podem controlar os trilhos. Surge então uma dissonância maior entre os trilhos e os nobres, quando eles resolvem tentar queimar os trilhos a fim de parar as locomotivas. Porém esqueceram de levar em consideração o surgimento das armas de fogo, surgindo então os [[Sentinelas do Aço]], filhos dos lordes que agora são sócios portando rifles e armaduras de aço.
+
+Os [[Sentinelas do Aço]] totalizam tropas com volume muito menor que as **Guardas Reais**, porém as suas armaduras e armas os tornavam maquinas de guerra. A única fraqueza de um **Sentinela do Aço**, assim como de uma maquina a vapor, era o excesso em calor. Então exércitos portanto armas em chamas surgem tentando sabotar as locomotivas, tentativas em vão, talvez eles derrubassem um ou dois **Sentinelas** com sorte, porém as perdas eram imensas. 
+
+Em meio a exércitos e mais exércitos caídos surge a [[Primeira Grande Epidemia]], a [[Peste]] começa a acabar com todos aqueles que saíram vivos e até os inocentes.

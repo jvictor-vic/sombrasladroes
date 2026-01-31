@@ -2,5 +2,9 @@
   "accentColor": "#7952e5",
   "cssTheme": "Wasp",
   "theme": "obsidian",
-  "baseFontSize": 16
+  "baseFontSize": 20,
+  "textFontFamily": "",
+  "enabledCssSnippets": [
+    "Theme_Sombras&Ladroes"
+  ]
 }

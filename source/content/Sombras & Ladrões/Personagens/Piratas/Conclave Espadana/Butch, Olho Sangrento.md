@@ -2,9 +2,9 @@
 tags:
   - SombrasELadroes
   - ConclaveEspadana
-Navio: 
+Navio: "[[Sangrento]]"
 Filiações:
   - "[[Conclave Espadana]]"
-Arquétipos: 
+Arquétipos:
 Idade:
 ---

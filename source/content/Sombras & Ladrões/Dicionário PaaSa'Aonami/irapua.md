@@ -1,0 +1,3 @@
+Povoamento de resistência
+
+![[ira]]

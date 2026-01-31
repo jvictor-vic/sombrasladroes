@@ -1,7 +1,9 @@
 ---
 Anterior: "[[Reformulação de Negócios (Temporada 1 - Sessão 5.2)]]"
 Próxima:
-Data:
+Data: 2026-01-31
+tags:
+  - DiarioDeSessao
 draft: "false"
 ---
 ## Funcionários Chegam Primeiro
@@ -14,7 +16,7 @@ draft: "false"
 - Quando a banda começa, a comoção para dançar lentamente passa pelo salão;
 
 ## Nobres nunca atrasam, nem chegam na hora
-- [[Catherine]] chega ao baile em um comboio de duas carruagens de Nobres uma com brasão da família [[Benfina]] e outra com brasão da família [[Valmarinho]];
+- [[Catherine Languedoc Roussilon]] chega ao baile em um comboio de duas carruagens de Nobres uma com brasão da família [[Benfina]] e outra com brasão da família [[Valmarinho]];
 - Algumas das pessoas com cara de rico e nariz empinado ficam incomodadas ou inquietas com a chegada dos nobres;
 - Os nobres são acompanhados até mesas especiais reservadas;
 - Após se confortarem a mesa, [[Noah Lupita]] os recepciona e cria suspense sobre **"O Livro"**;
@@ -44,10 +46,10 @@ draft: "false"
 - [[Wilma Lupita]] sussurra para [[Clarisse Maria]]: "O mestre falou que talvez exista uma obra de valor incontável em jogo", então segue pelo corredor;
 - "O baile de máscaras vai começar, não se esqueçam que quem você é, na mascará ficará. Aproveitem a brincadeira pois em instantes sérias obras primas iremos leiloar!" - Recita o **Apresentador**
 - [[Wilma Lupita]] segue até a mesa da família real [[Valmarinho]] e recita a mesma apresentação, então os acompanha de volta até a mesa;
-- Depois, [[Wilma Lupita]] apresenta aos [[Benfina]] as obras, recitando a mesma apresentação novamente (Com ênfase, caso perceba que a [[Catherine]] está junto a [[Clarisse Maria|Clarisse]]; talvez a encarando de canto de olho), e então os acompanha até a mesa novamente;
+- Depois, [[Wilma Lupita]] apresenta aos [[Benfina]] as obras, recitando a mesma apresentação novamente (Com ênfase, caso perceba que a [[Catherine Languedoc Roussilon]] está junto a [[Clarisse Maria|Clarisse]]; talvez a encarando de canto de olho), e então os acompanha até a mesa novamente;
 - A festa se segue com um baile até que comece o leilão;
 - [[Robert Jr (Antigo Richard)]], faz o [[Jake]] esperar no armazém do porão depois do leilão;
-- "Nos encontre no final do corredor, após o sinal", para [[Catherine]]
+- "Nos encontre no final do corredor, após o sinal", para [[Catherine Languedoc Roussilon]]
 
 
 ## O Leilão
@@ -66,7 +68,7 @@ Chegou a hora de esbaldar seus lacrimosos olhos em beleza,
 <br>
 sem desejar aos outros tristeza. 
 <br>
-Chegou a hora de decorar seus lares e trabalhos, 
+Chegou a hora de decorar seu lar e trabalho, 
 <br>
 com uma janela para o fantástico mundo do imaginário. 
 </P>
@@ -81,14 +83,14 @@ seja no seu armário, mesário ou antiquário,
 <br>
 seja seu primário, ou secundário,
 <br>
-seja mais um itinerário para você comissário
+seja mais um itinerário para você, comissário
 </P>
 <p>
 trazemos a obra a mesa,
 <br>
 para que a boniteza te convença.
 <br>
-E que então o maior lance vença!
+E, então, que então o maior lance vença!
 </p>
 <p>
 E, agora se me der licença,
@@ -104,7 +106,7 @@ o bar clama por minha presença.
 
 - Começa, então, o leilão;
 - "[[Robert Jr (Antigo Richard)|Robert]], temos 5 quadros para comprar" - [[Clarisse Maria]];
-	- Se ele perguntar sobre o sexto: "Eles não precisam que não está a venda"
+	- Se ele perguntar sobre o sexto: "Eles não precisam saber que não está a venda"
 	- (Trilha Sonora: Cage The Elephant - Punchin' Bag)
 
 ## Festa de Despedida

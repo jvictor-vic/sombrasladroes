@@ -70,4 +70,7 @@ Voltando para [[Porto Real]], [[Zyan]], vai atrás de [[Vince Maria]] em busca d
 ![[Batedor#Habilidade de nível 2 – Olhos atentos]]
 ![[Batedor#Habilidade de nível 3 – Reação rápida]]
 
-### a
+### Inventário
+
+#### Jaqueta
+![[Giusepe 12 gauge#Giusepe 12 gauge – Arma de fogo, Escopeta de Mão]]

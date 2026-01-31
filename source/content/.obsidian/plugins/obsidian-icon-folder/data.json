@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBookA",
+      "LiUserPen",
+      "LiToolCase",
       "LiShipWheel",
-      "🏴‍☠️",
-      "LiMusic",
-      "LiPersonStanding",
-      "🪄"
+      "🏴‍☠️"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,8 @@
   "Sombras & Ladrões/Personagens": "LiPersonStanding",
   "Sombras & Ladrões/Trilha Sonora": "LiMusic",
   "Sombras & Ladrões/Personagens/Piratas": "🏴‍☠️",
-  "Sombras & Ladrões/Piratas": "LiShipWheel"
+  "Sombras & Ladrões/Piratas": "LiShipWheel",
+  "Sombras & Ladrões/Itens": "LiToolCase",
+  "Sombras & Ladrões/Criação de Personagens": "LiUserPen",
+  "Sombras & Ladrões/Dicionário PaaSa'Aonami": "LiBookA"
 }

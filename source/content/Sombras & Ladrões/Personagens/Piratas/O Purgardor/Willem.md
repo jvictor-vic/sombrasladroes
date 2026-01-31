@@ -3,17 +3,19 @@ tags:
   - SombrasELadroes
   - Piratas
   - "#Temporada2"
-Navio:
+Navio: "[[O Purgador]]"
 Filiações:
 Arquétipos:
 Idade: 26
 draft: "false"
 ---
 > [!note]- Filiações
+> [[O Purgador]] - Contramestre
 
 
 >[!note]- Relações
 >[[Frida]] - Esposa
+>[[Willa]] - Filha 
 
 
 ## Aparência
@@ -22,10 +24,10 @@ Homem de altura mediana e pele pálida avermelhada pelo sol, não aparenta ser m
 Seu rosto tem linhas de expressão bem marcadas, especialmente ao lado dos olhos. Constantemente franze os olhos quando não está ao sol. Seus olhos são azuis bem claros e seu cabelo é de um tom meio loiro meio ruivo pouco ondulado penteado para trás cobrindo a nuca e o pescoço.
 
 ## História
-[[Willem]] e [[Frida]] eram camponeses na [[Ilha de Esmerelda]] até a [[Federação das Colônias]] se interessar na extração das pedras preciosas da [[Ilha de Esmerelda|Ilha]], o que acabou destruindo as terras dos camponeses. Com um filho pequeno, [[Willem]] parte junto a tripulação de [[Jack Rackham]] e envia grande parte do seu rateio para [[Frida]] por meio de [[Emil|Emil, um navegador mercante]].
+[[Willem]] e [[Frida]] eram camponeses na Ilha [[Esme'elda]] até a [[Federação das Colônias]] se interessar na extração das pedras preciosas da [[Esme'elda|Ilha]], o que acabou destruindo as terras dos camponeses. Com um filho pequeno, [[Willem]] parte junto a tripulação de [[Jack Rackham]] e envia grande parte do seu rateio para [[Frida]] por meio de [[Emil]], um navegador mercante.
 
 ### Música
-[[Willem]] sempre foi apaixonado pela música, no seu tempo livre costumava frequentar bares e tavernas com a [[Frida]] ou tocar para as suas plantas e animais.
+[[Willem]] sempre foi apaixonado pela música, no seu tempo livre costumava frequentar tavernas em [[Esme'elda]] com a [[Frida]] ou tocar para as suas plantas e animais.
 
 Frequentemente é visto com sua viola ou cantando, seja no estoque, seja no convés. Ou até para sua muda de Cravo Branco
 

@@ -1,0 +1,1 @@
+Povoamento; Povoado; vila
