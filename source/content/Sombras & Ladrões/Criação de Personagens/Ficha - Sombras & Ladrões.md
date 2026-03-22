@@ -63,8 +63,10 @@
 - Direito (Edu): 
 - Disfarce (Int): 
 - Equilíbrio (Des): 
-- Escalar (For): Escutar (Int): 
-- Esquiva (Des): Evasão (Des): 
+- Escalar (For): 
+- Escutar (Int): 
+- Esquiva (Des): 
+- Evasão (Des): 
 - Farmácia (Edu): 
 - Furtividade (Des): 
 - Geologia (Edu): 

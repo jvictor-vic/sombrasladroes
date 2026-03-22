@@ -135,7 +135,7 @@ draft: "true"
 - Rep. Mecânico (Int): 
 - Sedução (Emp): 
 - Sobrevivência (Int): 
-- Tiro (Des): 
+- Tiro (Des): 20
 - Tortura (AuCon): 
 - Arte Marcial ( ): 
 - Código ( ): 
