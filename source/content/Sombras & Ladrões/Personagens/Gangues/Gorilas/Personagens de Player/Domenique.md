@@ -62,8 +62,7 @@ Formada na [[Faculdade de Elion]] no [[Reino de Bourbona]] (uma das mais influen
 | ------------------- | --- | ---------------------- | --- | ---------------------- | --- |
 | [[Esquiva]]         | 30  | [[Resistência Física]] | 25  | [[Resistência Mental]] | 50  |
 
-
-## Pericias 
+### Pericias 
 - Acrobacia (Des):  
 - Agarrar (Tam): 28 
 - Alquimia (Int): 75 
@@ -128,6 +127,19 @@ Formada na [[Faculdade de Elion]] no [[Reino de Bourbona]] (uma das mais influen
 - Tortura (AuCon): 22 
 - Arte Marcial (Luta Greco Romana):  32 
 - Código (Morse e Cifras):
+
+### Ataques 
+
+| Nome     | Bônus   | Dano        | Especial                                           |
+| -------- | ------- | ----------- | -------------------------------------------------- |
+| Bisturi  | 35      | 4d4+2 cort. | Ataques críticos causam ferimento grave alastrado  |
+| Deslocar | agarrar | 1d1         | Causa ferimento leve e incapacita o braço          |
+| Ponto D  | 32      | 1d1 + bd    | Teste de AuCon para resistir a dor                 |
+
+### Talentos 
+- **Cirurgião prodigio:** Permite reduzir um ferimento critico a ferimentos graves. Para isso deve se usar um numero de ações igual a soma de todos os ferimentos do paciente. E ser bem sucedida em um teste de Medicina (CD 5x leve + 10x grave + 15x crítico). 
+
+- **Androgine:** Permite flertar com personagens que tenham interesse romântico em qualquer gênero (ou todos!).
 
 ### Arquétipos
 ### Alquimista 4
