@@ -3,7 +3,7 @@ tags:
   - SombrasELadroes
 Tipo:
   - Arma de Fogo
-draft: "false"
+draft: "true"
 ---
 ####  – ; 
 - 

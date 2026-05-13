@@ -7,7 +7,7 @@ Navio: "[[O Purgador]]"
 Filiações:
 Arquétipos:
 Idade: 26
-draft: "false"
+draft: "true"
 ---
 > [!note]- Filiações
 > [[O Purgador]] - Contramestre

@@ -3,7 +3,7 @@ tags:
   - SombrasELadroes
   - Talentos
   - DesenvolvimentoDePersonagem
-draft: "true"
+draft:
 ---
 A campanha de [[Sombras e Ladrões]] possui habilidades especificas chamadas [[Talentos - Sombras & Ladrões|Talentos]], podendo corresponder a especializações predeterminadas ou servir como ferramenta para tornar personagens mais únicos. 
 

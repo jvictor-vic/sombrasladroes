@@ -2,7 +2,7 @@
 tags:
   - DesenvolvimentoDePersonagem
   - SombrasELadroes
-draft: "true"
+draft:
 ---
 ### Atributos
 

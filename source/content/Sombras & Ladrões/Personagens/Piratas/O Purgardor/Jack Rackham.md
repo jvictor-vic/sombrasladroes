@@ -7,7 +7,7 @@ Navio: "[[O Purgador]]"
 Filiações:
 Arquétipos:
 Idade: 28
-draft: "false"
+draft: "true"
 ---
 > [!note]- Filiações
 > [[O Purgador]] - Capitão

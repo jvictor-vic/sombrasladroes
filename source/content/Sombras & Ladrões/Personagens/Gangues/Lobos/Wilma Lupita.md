@@ -8,7 +8,7 @@ Arquétipos:
   - Carrasco 4
   - Assassina 3
 Idade: 24
-draft: "false"
+draft:
 ---
 > [!note]- Filiações
 > [[Lobos]] - Matilheira

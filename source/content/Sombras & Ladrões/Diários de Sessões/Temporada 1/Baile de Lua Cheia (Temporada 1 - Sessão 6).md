@@ -4,7 +4,7 @@ Próxima:
 Data: 2026-01-31
 tags:
   - DiarioDeSessao
-draft: "false"
+draft:
 ---
 ## Funcionários Chegam Primeiro
 - [[Jake]] junto com a banda **A** chegam até o local e começam as preparações para o show do baile;

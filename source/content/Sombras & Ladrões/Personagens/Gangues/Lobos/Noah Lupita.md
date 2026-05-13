@@ -8,7 +8,7 @@ Arquétipos:
   - Carrasco 4
   - Assassino 4
 Idade: 26
-draft: "false"
+draft:
 ---
 > [!note]- Filiações
 > [[Lobos]] - Líder de Matilha

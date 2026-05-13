@@ -2,7 +2,7 @@
 tags:
   - DesenvolvimentoDePersonagem
   - SombrasELadroes
-draft: "true"
+draft:
 ---
 ## Definindo Atributos
 Para definir os valores de **Auto Controle**, **Constituição**,  **Destreza**, **Educação**,  **Empatia**,  **Força**, **Inteligência** e **Tamanho**, role 4d6 e some os 3 maiores resultados, os valores podem então ser distribuídos da forma que preferir entre estes atributos.

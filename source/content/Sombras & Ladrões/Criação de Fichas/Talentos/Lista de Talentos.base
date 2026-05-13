@@ -4,6 +4,6 @@ views:
     filters:
       and:
         - file.tags.contains("Talentos")
-        - draft == "true"
+        - draft == "false"
         - '!file.tags.contains("DesenvolvimentoDePersonagem")'
     indentProperties: false

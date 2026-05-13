@@ -2,5 +2,5 @@
 tags:
   - Talentos
   - SombrasELadroes
-draft:
+draft: "true"
 ---

@@ -8,7 +8,7 @@ Filiações:
   - "[[Gorilas]]"
 Arquétipos:
 Idade: 16
-draft: "false"
+draft:
 ---
 > [!note]- Filiações
 > [[Gorilas]] - Associada

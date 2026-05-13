@@ -1,6 +1,6 @@
 ---
 Gangue: "[[Lobos]]"
-draft: "false"
+draft: "true"
 ---
 
 

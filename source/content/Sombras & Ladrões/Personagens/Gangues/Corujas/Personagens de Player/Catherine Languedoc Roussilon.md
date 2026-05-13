@@ -12,7 +12,7 @@ Arquétipos:
   - Assassina 2
   - Esgrimista 1
 Idade:
-draft: "true"
+draft:
 ---
 > [!note]- Filiações
 > [[Corujas]] - Espiã

@@ -1,24 +1,23 @@
 {
   "main": {
-    "id": "481a7ccb7864acbe",
+    "id": "b0e03cb6c5e950b9",
     "type": "split",
     "children": [
       {
-        "id": "272dc605f01951ca",
+        "id": "69a23d8587209611",
         "type": "tabs",
         "children": [
           {
-            "id": "c158a679d223ec0e",
+            "id": "5b06ab14fb8eab7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Sombras & Ladrões/Criação de Fichas/Talentos - Sombras & Ladrões.md",
-                "mode": "source",
-                "source": false
+                "file": "Protected Notes.base",
+                "viewName": "Tabela"
               },
-              "icon": "lucide-file",
-              "title": "Talentos - Sombras & Ladrões"
+              "icon": "lucide-table",
+              "title": "Protected Notes"
             }
           }
         ]
@@ -27,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "17bb59004e6bf44b",
+    "id": "09eb5de6c10d78cc",
     "type": "split",
     "children": [
       {
-        "id": "f62b6cb5ae400b86",
+        "id": "15a3d70b0aed5a64",
         "type": "tabs",
         "children": [
           {
-            "id": "2ade7fa3c9e21a37",
+            "id": "5d58234185783717",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +47,7 @@
             }
           },
           {
-            "id": "911e798f280cb5a8",
+            "id": "8a8966d2474bc78e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +64,7 @@
             }
           },
           {
-            "id": "582e7b1b7a2249f5",
+            "id": "bc70f8b05288493e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,19 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "afe9a36bfa2318c3",
+    "id": "ae0e8e3cf3dfb3e4",
     "type": "split",
     "children": [
       {
-        "id": "ff8686f922c74d44",
+        "id": "616d4aa0bd192ca8",
         "type": "tabs",
         "children": [
           {
-            "id": "162b47f422afd8fe",
+            "id": "72326418589f5cbb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Protected Notes.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para Protected Notes"
             }
           },
           {
-            "id": "c54c3de21b87ddc3",
+            "id": "23ce620ec90c46b4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sombras & Ladrões/Sessões/Temporada 1/Reformulação de Negócios (Temporada 1 - Sessão 5.2).md",
+                "file": "Protected Notes.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Reformulação de Negócios (Temporada 1 - Sessão 5.2)"
+              "title": "Links de saída para Protected Notes"
             }
           },
           {
-            "id": "03bc795b7643d93c",
+            "id": "31a11379099145bc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,36 +132,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
-            "id": "464ceee301122bf1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Sombras & Ladrões/Personagens/Gangues/Lobos/Noah Lupita.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Sumário de Noah Lupita"
-            }
-          },
-          {
-            "id": "97265ebaba83e729",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
-            }
-          },
-          {
-            "id": "e393a3dd13748f8a",
+            "id": "5e66c2d8539b5317",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -173,13 +148,27 @@
               "icon": "lucide-archive",
               "title": "Todas as propriedades"
             }
+          },
+          {
+            "id": "bd527ef54eb209e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Protected Notes.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Protected Notes"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 319.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -194,54 +183,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c158a679d223ec0e",
+  "active": "5b06ab14fb8eab7e",
   "lastOpenFiles": [
-    "Sombras & Ladrões/Criação de Fichas/Talentos/Lista de Talentos.base",
-    "Sombras & Ladrões/Criação de Fichas/Talentos - Sombras & Ladrões.md",
-    "Sombras & Ladrões/Criação de Fichas/Talentos/Talento - Carpinteiro.md",
-    "Sombras & Ladrões/Criação de Fichas/Talentos/Talento - Ferreiro.md",
-    "Sombras & Ladrões/Criação de Fichas/Talentos/Talento - Navegador.md",
-    "Sombras & Ladrões/Criação de Fichas/Talentos/Talento - Tanoiero X.md",
-    "Sombras & Ladrões/Criação de Fichas/Talentos/Talento - Pescador X.md",
-    "Sombras & Ladrões/Criação de Fichas/Talentos/Talento - Músico X.md",
-    "Sombras & Ladrões/Criação de Fichas/Talentos/Talento - Matemático XX.md",
-    "Sombras & Ladrões/Criação de Fichas/Talentos/Talento - Físico XX.md",
-    "Sombras & Ladrões/Criação de Fichas/Talentos/Talento - Cozinheiro X.md",
-    "Sombras & Ladrões/Criação de Fichas/Talentos/Talento - Costureiro X.md",
-    "Sombras & Ladrões/Criação de Fichas/Talentos/Talento - Cirurgião X.md",
-    "Sombras & Ladrões/Criação de Fichas/Talentos/Talento - Caçador X.md",
-    "Sombras & Ladrões/Criação de Fichas/Talentos/Talento - Artilheiro X.md",
-    "Sombras & Ladrões/Criação de Fichas/Talentos/Talento - Armeiro X.md",
-    "Sombras & Ladrões/Criação de Fichas/Talentos/Talento -.md",
-    "Sombras & Ladrões/Criação de Fichas/Ficha - Sombras & Ladrões.md",
-    "Sombras & Ladrões/Criação de Fichas/Criando uma Ficha Nova.md",
-    "Sombras & Ladrões/Criação de Fichas/Arquétipos - Sombras & Ladrões.md",
-    "Sombras & Ladrões/Personagens/Gangues/Lobos/Noah Lupita.md",
-    "Sombras & Ladrões/Trilha Sonora/Trilha Sonora Temporada 2 - Sombras E Ladrões.md",
+    "Sombras & Ladrões/Locais/Federação das Colônias.md",
+    "Protected Notes.base",
     "Sombras & Ladrões/Criação de Fichas/Origens/Origem - Cigano.md",
-    "Sombras & Ladrões/Criação de Fichas/Origens/Origem - Nativo Sa'Aori.md",
-    "Sombras & Ladrões/Criação de Fichas/Origens/Origem - Nativo Pa'Anami.md",
-    "Sombras & Ladrões/Personagens/Gangues/Corujas/Vince Maria.md",
-    "Sombras & Ladrões/Criação de Fichas/Origens",
-    "Sombras & Ladrões/Untitled",
-    "Sombras & Ladrões/Criação de Personagens/Talentos/Untitled",
-    "Sombras & Ladrões/Piratas/Organizações/Conclave Espadana",
-    "Sombras & Ladrões/Dicionário PaaSa'Aonami",
-    "Sombras & Ladrões/Lore/Federação das Colonias",
-    "Sombras & Ladrões/Personagens/Blucher Co",
-    "Sombras & Ladrões/Lore/Eesilas",
-    "Sombras & Ladrões/Criação de Fichas/Talentos",
-    "Desenvolvimento/Identidade Visual/Paleta de Cores.png",
-    "Desenvolvimento/Identidade Visual/Exemplos - Tipografia/Tipografia - Six Caps.png",
-    "Desenvolvimento/Identidade Visual/Exemplos - Tipografia/Tipografia - Sancreek.png",
-    "Desenvolvimento/Identidade Visual/Exemplos - Tipografia/Tipografia - Rye.png",
-    "Desenvolvimento/Identidade Visual/Exemplos - Tipografia/Tipografia - Pirata One.png",
-    "Desenvolvimento/Identidade Visual/Exemplos - Tipografia/Tipografia - New Rocker.png",
-    "Desenvolvimento/Identidade Visual/Exemplos - Tipografia/Tipografia - Medula One.png",
-    "Desenvolvimento/Identidade Visual/Exemplos - Tipografia/Tipografia - Grenze Gotisch.png",
-    "Desenvolvimento/Identidade Visual/Exemplos - Tipografia/Tipografia - Aladin.png",
-    "Pasted image 20251230190821.png",
-    "Sem título.canvas",
-    "Sem título 1.canvas"
+    "Sombras & Ladrões/Criação de Fichas/Arquétipos - Sombras & Ladrões.md",
+    "Sombras & Ladrões/Criação de Fichas/Arquétipos/Místicos/Atirador Rúnico.md",
+    "Sombras & Ladrões/Personagens/Gangues/Lobos/PDMS/Caçador Lobo.md",
+    "Sombras & Ladrões/Personagens/Piratas/O Purgardor/Jack Rackham.md",
+    "Sombras & Ladrões/Criação de Fichas/Origens/Origem -.md",
+    "Sombras & Ladrões/Personagens/Gangues/Lobos/PDMS/Protetor Lobo.md",
+    "Sombras & Ladrões/Personagens/Gangues/Lobos/PDMS/Zelador Lobo.md",
+    "Sombras & Ladrões/Trilha Sonora/Trilha Sonora Temporada 2 - Sombras E Ladrões.md",
+    "Sombras & Ladrões/Personagens/Gangues/Lobos/PDMS/Vigia Lobo.md",
+    "Sombras & Ladrões/Personagens/Piratas/O Purgardor/Willem.md",
+    "Sombras & Ladrões/Personagens/Gangues/Lobos/Wilma Lupita.md",
+    "Sombras & Ladrões/Trilha Sonora/Trilha Sonora - Sombras e Ladrões.md",
+    "Sombras & Ladrões/Criação de Fichas/Talentos - Sombras & Ladrões.md",
+    "Sombras & Ladrões/Criação de Fichas/Talentos/Talento - Navegador.md",
+    "Sombras & Ladrões/Criação de Fichas/Talentos/Talento - Ferreiro.md",
+    "Sombras & Ladrões/Criação de Fichas/Talentos/Talento - Carpinteiro.md",
+    "Sombras & Ladrões/Personagens/Richard Trevithick.md",
+    "Sombras & Ladrões/Magias/Gisha/Magias Gisha da Sombra.md",
+    "Sombras & Ladrões/Personagens/Piratas/O Purgardor/Marry Read.md",
+    "Sombras & Ladrões/Personagens/Piratas/O Purgardor/Richard Charles.md",
+    "Sombras & Ladrões/Diários de Sessões/Temporada 1/Reformulação de Negócios (Temporada 1 - Sessão 5.2).md",
+    "Sombras & Ladrões/Itens/Itens Exóticos/Armas de Fogo Exóticas/Ray Gun.md",
+    "Sombras & Ladrões/Personagens/Gangues/Lobos/Noah Lupita.md",
+    "Sombras & Ladrões/Criação de Fichas/Arquétipos/Místicos/Gisha.md",
+    "Sombras & Ladrões/Criação de Fichas/Talentos/Lista de Talentos.base"
   ]
 }

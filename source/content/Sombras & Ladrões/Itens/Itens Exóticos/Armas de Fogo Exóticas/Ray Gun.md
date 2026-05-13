@@ -6,7 +6,7 @@ Tipo:
   - Arma de Fogo
   - Rifle
 Proprietário: "[[Rubi]]"
-draft: "false"
+draft:
 ---
 
 Tesla Coils go ththshshhshhshs
