@@ -36,11 +36,17 @@ Forte e alto
 ### Arquétipos
 #### Carrasco 4
 ![[Carrasco#Habilidade de nível 1 – Resiliência carrancuda]]
+
 ![[Carrasco#Habilidade de nível 2 – Briguento]]
+
 ![[Carrasco#Habilidade de nível 3 – Pele de Aço]]
+
 ![[Carrasco#Habilidade de nível 4 – Degolar]]
 #### Assassino 4
 ![[Assassino#Habilidade de nível 1 – Assassinar]]
+
 ![[Assassino#Habilidade de nível 2 – Passos Mortais]]
+
 ![[Assassino#Habilidade de nível 3 – Arremessador de facas]]
+
 ![[Assassino#Habilidade de nível 4 – Ataque Preciso]]

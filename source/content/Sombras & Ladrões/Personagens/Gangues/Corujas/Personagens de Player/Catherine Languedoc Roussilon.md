@@ -46,7 +46,7 @@ draft: "true"
 | Leve | Grave | Crítico |
 | :--: | :---: | :-----: |
 |  3   |   2   |    1    |
-|      |       |         |
+|  2   |       |         |
 
 #### Redução de Dano
 | Normal | Leve | Grave | Crítico |
@@ -63,12 +63,16 @@ draft: "true"
 ### Arquétipos
 #### Espiã 4
 ![[Espião#Habilidade de nível 1 – esconder em plena vista]]
+
 ![[Espião#Habilidade de nível 2 – Decifrador de códigos]]
+
 ![[Espião#Habilidade de nível 3 – Mentiroso natural]]
+
 ![[Espião#Habilidade de nível 4 – Disfarce Superior]]
 
 #### Assassina 2
 ![[Assassino#Habilidade de nível 1 – Assassinar]]
+
 ![[Assassino#Habilidade de nível 2 – Passos Mortais]]
 
 #### Esgrimista 1
@@ -142,5 +146,17 @@ draft: "true"
 - Pilotar ( ): 
 - Tiro ( ):
 
+### Ataques 
+
+| Nome      | Bônus           | Dano          | Especial                                                                                                                                                                                                                                  |
+| --------- | --------------- | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Puma .357 | 40 (Tiro + 2)   | 4d8 balistico | Ataques críticos causam ferimento grave alastrado                                                                                                                                                                                         |
+| Espada    | 52 (Esgrima +4) | 3d6 + 2       | Ao desviar de um ataque em alcance corpo a corpo ou fazer alguma manobra bem sucedida com a mão livre, você pode realizar um ataque com vantagem com uma ação ou reação durante essa rodada. O ataque causa 1d6 independente do resultado |
+
+
+### Talentos 
+- **Cirurgião prodigio:** Permite reduzir um ferimento critico a ferimentos graves. Para isso deve se usar um numero de ações igual a soma de todos os ferimentos do paciente. E ser bem sucedida em um teste de Medicina (CD 5x leve + 10x grave + 15x crítico). 
+
+- **Androgine:** Permite flertar com personagens que tenham interesse romântico em qualquer gênero (ou todos!).
 
 ### Itens

@@ -144,10 +144,15 @@ Formada na [[Faculdade de Elion]] no [[Reino de Bourbona]] (uma das mais influen
 ### Arquétipos
 ### Alquimista 4
 ![[Alquimista#Habilidade de nível 1 – Conhecimento de vida ou morte]]
+
 ![[Alquimista#Habilidade de nível 2 – Surto de adrenalina]]
+
 ![[Alquimista#Habilidade de nível 3 – Dr. Médico]]
+
 ![[Alquimista#Habilidade de nível 4 – Dr. Assassino]]
 ### Charlatão 3
 ![[Charlatão#Habilidade de nível 1 – Especialista da enganação]]
+
 ![[Charlatão#Habilidade de nível 2 - Defesa Paciente]]
+
 ![[Charlatão#Habilidade de nível 4 – Nuvem de Mentiras]]

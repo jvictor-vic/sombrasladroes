@@ -1,7 +1,8 @@
 ---
 tags:
   - Talentos
-draft:
+  - SombrasELadroes
+draft: "true"
 ---
 Dedicando seu tempo a moldar e forjar ferro e metais, sua maestria na ferraria te permite moldar e criar ferramentas, armas e estruturas metálicas. Com as ferramentas certas em mão, um ferreiro pode realizar:
 - **Ferramenta Sobre Medida:** Durante a duração de um descanso, você pode forjar uma ferramenta para uma finalidade especifica. Essa ferramenta, então concede vantagem ao utiliza-la para finalidade especifica, porém desvantagem ao utiliza-la para qualquer outra finalidade; (A vida da ferramenta é igual )

@@ -64,11 +64,17 @@ draft: "false"
 ### Arquétipos
 #### Gisha 7
 ![[Gisha#Habilidade de nível 1 – Visões do outro lado]]
+
 ![[Gisha#Habilidade de nível 2 – Portal Entre Dois Mundo]]
+
 ![[Gisha#Habilidade de nível 3 – Lingua Esquecida]]
+
 ![[Gisha#Habilidade de nível 4 – Feitiçaria Gisha]]
+
 ![[Gisha#Habilidade de nível 5 – Vagante de Dois Mundos]]
+
 ![[Gisha#Habilidade de nível 6 – Vozes do Outro Lado]]
+
 ![[Gisha#Habilidade de nível 7 – Andarilha do Outro Lado]]
 
 ### Mágias

@@ -92,17 +92,24 @@
       }
     },
     {
+      "query": "tag:#DesenvolvimentoDePersonagem  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#Talentos  ",
+      "color": {
+        "a": 1,
+        "rgb": 262399
+      }
+    },
+    {
       "query": "tag:#SombrasELadroes  ",
       "color": {
         "a": 1,
         "rgb": 0
-      }
-    },
-    {
-      "query": "tag:",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
       }
     }
   ],
@@ -116,6 +123,6 @@
   "repelStrength": 16.1458333333333,
   "linkStrength": 1,
   "linkDistance": 103,
-  "scale": 0.13168724279835825,
+  "scale": 0.5087618855792749,
   "close": true
 }

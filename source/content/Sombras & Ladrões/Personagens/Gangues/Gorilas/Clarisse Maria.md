@@ -40,13 +40,18 @@ Morena levemente alta (1,75m), pele meio pálida com vitiligo nos braços e mão
 ### Arquétipo
 #### Assassina 4
 ![[Assassino#Habilidade de nível 1 – Assassinar]]
+
 ![[Assassino#Habilidade de nível 2 – Passos Mortais]]
+
 ![[Assassino#Habilidade de nível 3 – Arremessador de facas]]
+
 ![[Assassino#Habilidade de nível 4 – Ataque Preciso]]
 
 #### Espião 3
 ![[Espião#Habilidade de nível 1 – esconder em plena vista]]
+
 ![[Espião#Habilidade de nível 2 – Decifrador de códigos]]
+
 ![[Espião#Habilidade de nível 3 – Mentiroso natural]]
 
 ## A

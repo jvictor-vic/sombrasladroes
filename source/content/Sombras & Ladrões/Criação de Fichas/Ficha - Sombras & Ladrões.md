@@ -1,3 +1,9 @@
+---
+tags:
+  - DesenvolvimentoDePersonagem
+  - SombrasELadroes
+draft: "true"
+---
 ### Atributos
 
 | **Força**        |     | Inteligência      |     | Movimento   |     |

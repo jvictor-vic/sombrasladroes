@@ -1,7 +1,8 @@
 ---
 tags:
   - Talentos
-draft:
+  - SombrasELadroes
+draft: "true"
 ---
 Dedicando seu tempo a esculpir madeira em objetos uteis e/ou bonitos, sua maestria na carpintaria te permite construir estruturas complexas e fazer reparos rápidos e efetivos. Com as ferramentas certas em mão, um carpinteiro pode realizar:
 - 

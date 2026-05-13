@@ -21,5 +21,7 @@ draft: "false"
 ### Arquétipos
 #### Batedor 3
 ![[Batedor#Habilidade de nível 1 – Distância segura]]
+
 ![[Batedor#Habilidade de nível 2 – Olhos atentos]]
+
 ![[Batedor#Habilidade de nível 3 – Reação rápida]]

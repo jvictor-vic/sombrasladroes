@@ -2,6 +2,8 @@
 tags:
   - SombrasELadroes
   - Arquétipos
+  - DesenvolvimentoDePersonagem
+draft: "true"
 ---
 
 

@@ -1,0 +1,9 @@
+views:
+  - type: list
+    name: Tabela
+    filters:
+      and:
+        - file.tags.contains("Talentos")
+        - draft == "true"
+        - '!file.tags.contains("DesenvolvimentoDePersonagem")'
+    indentProperties: false
